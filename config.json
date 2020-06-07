@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/codingblasters",
+    "prod_uri":"mysql://root:@localhost/codingblasters",
+    "fb_url":"https://facebook.com/codingblasters",
+    "tw_url":"https://twitter.com/codingblasters",
+    "gh_url": "https://github.com/codingblasters",
+    "blog_name": "Coding Blasters",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"kng2907@gmail.com",
+    "gmail-password":"kng2907@gmail",
+    "about_text": "Hi my name is Kevin and I am a programmer and aspiring Data Scientist",
+    "no_of_posts": 2,
+    "login_image":"login.jpg",
+    "admin_user":"kevin",
+    "admin_password": "1234",
+    "upload_location":"C:\\Users\\admin\\PycharmProjects\\Flask-tutorial\\static"
+  }
+}
